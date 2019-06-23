@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+        
+        <h1>Ismael's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+           <li> <a href="#firstpost"> First post!</a></li>
+         <li> <a href="#secondpost"> Second post!</a></li>
+        </ul>
+        
+        <h2 id="firstpost">First post</h2>
+        <h5>25/06/2019</h5>
+        
+        <p>Acabo el instituto.</p>
+        
+        <h2 id="secondpost">Second post</h2>
+        <h5>08/07/2019</h5>
+        
+        <p>Me voy a Marruecos.</p>
+        
+        
+        
+        
+    </body>
+</html>
